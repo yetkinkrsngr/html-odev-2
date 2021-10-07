@@ -1,0 +1,25 @@
+*{
+    background-color:black ;
+    font-family: 'Playfair Display', serif;
+}
+.downarr{
+    width: 55px;
+    height: 55px;
+}
+.main-site{
+    color: whitesmoke;
+    
+    border: 5px dotted whitesmoke;
+
+}
+.link{
+    text-decoration: none;
+    color: burlywood;
+}
+.pic{
+    text-align: center;
+}
+.uparr{
+    width: 55px;
+    height: 55px;
+}
